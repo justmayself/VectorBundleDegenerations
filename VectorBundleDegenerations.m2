@@ -16,9 +16,8 @@ newPackage(
 	    },
         AuxiliaryFiles => false,
         DebuggingMode => false,
-        Reload => true,
-        PackageExports =>{"NormalToricVarieties"},
-        DebuggingMode => true
+        Reload => false,
+        PackageExports =>{"NormalToricVarieties"}
         )
 				
 export {
